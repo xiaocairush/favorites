@@ -7,6 +7,9 @@
 [vim + ctags + cscope + taglist 阅读源码](https://my.oschina.net/u/554995/blog/59927)<br/>
 [vim leaning notes](https://github.com/xiaocairush/xiaocairush.github.io/blob/master/_posts/2017-05-25-vim-learning-notes.markdown)
 
+## redis
+[redis源码日志](http://wiki.jikexueyuan.com/project/redis/)
+
 ## skip list (algorithm)
 [paper for skip list](http://www.cl.cam.ac.uk/teaching/0506/Algorithms/skiplists.pdf) ,<br/>
 [skip list in redis](http://redisbook.readthedocs.io/en/latest/internal-datastruct/skiplist.html),<br/>
