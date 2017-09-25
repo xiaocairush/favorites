@@ -15,7 +15,11 @@
 [skip list in redis](http://redisbook.readthedocs.io/en/latest/internal-datastruct/skiplist.html),<br/>
 [wiki for skip list](https://en.wikipedia.org/wiki/Skip_list)
 
+## design
+[23种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
+
 ## sites
 [db engine](https://db-engines.com)<br/>
 [极客学院wiki](http://wiki.jikexueyuan.com/)<br/>
 [《Algorithm》](http://algs4.cs.princeton.edu)
+
