@@ -21,5 +21,5 @@
 ## sites
 [db engine](https://db-engines.com)<br/>
 [极客学院wiki](http://wiki.jikexueyuan.com/)<br/>
-[《Algorithm》](http://algs4.cs.princeton.edu)
+[《Algorithm》](http://algs4.cs.princeton.edu)<br/>
 [中文文档搜索](http://shouce.jb51.net)
