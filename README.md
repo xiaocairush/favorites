@@ -27,6 +27,11 @@
 ## blog
 [mysql-老叶茶馆](http://imysql.com)
 
+## 网络安全
+
+[awesome tools](https://github.com/recodeking/MalwareAnalysis)<br/>
+[安全技术精粹](https://paper.seebug.org)
+
 ## sites
 [db engine](https://db-engines.com)<br/>
 [极客学院wiki](http://wiki.jikexueyuan.com/)<br/>
