@@ -32,6 +32,9 @@
 [awesome tools](https://github.com/recodeking/MalwareAnalysis)<br/>
 [安全技术精粹](https://paper.seebug.org)
 
+## 书籍
+[Linux 内核 0.11 详细注释](http://oldlinux.org/download/clk011.pdf)
+
 ## sites
 [db engine](https://db-engines.com)<br/>
 [极客学院wiki](http://wiki.jikexueyuan.com/)<br/>
