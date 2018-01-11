@@ -13,10 +13,15 @@
 ## spring
 [跟开涛学SpringMVC](http://jinnianshilongnian.iteye.com/blog/1752171)
 
-## skip list (algorithm)
+## 算法
+
+### skip list (algorithm)
 [paper for skip list](http://www.cl.cam.ac.uk/teaching/0506/Algorithms/skiplists.pdf) ,<br/>
 [skip list in redis](http://redisbook.readthedocs.io/en/latest/internal-datastruct/skiplist.html),<br/>
 [wiki for skip list](https://en.wikipedia.org/wiki/Skip_list)
+
+### jump consistent hash
+[jump consistent hash](https://arxiv.org/ftp/arxiv/papers/1406/1406.2294.pdf)
 
 ## design
 [23种设计模式](http://wiki.jikexueyuan.com/project/java-design-pattern/)
