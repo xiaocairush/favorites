@@ -37,6 +37,9 @@
 [awesome tools](https://github.com/recodeking/MalwareAnalysis)<br/>
 [安全技术精粹](https://paper.seebug.org)
 
+## SDK documents
+[idea platform sdk](https://www.jetbrains.org/intellij/sdk/docs/welcome.html)
+
 ## 书籍
 [Linux 内核 0.11 详细注释](http://oldlinux.org/download/clk011.pdf)
 
