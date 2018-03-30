@@ -33,9 +33,9 @@
 [mysql-老叶茶馆](http://imysql.com)
 
 ## database
-[数据库事务扫盲](https://www.cnblogs.com/fjdingsd/p/5273008.html)
-[数据库事务实现](https://tech.meituan.com/innodb-lock.html)
-[sharding jdbc源码解析](http://www.iocoder.cn/categories/Sharding-JDBC/?cnblog)
+[数据库事务扫盲](https://www.cnblogs.com/fjdingsd/p/5273008.html)<br/>
+[数据库事务实现](https://tech.meituan.com/innodb-lock.html)<br/>
+[sharding jdbc源码解析](http://www.iocoder.cn/categories/Sharding-JDBC/?cnblog)<br/>
 [Transaction](https://www.ibm.com/developerworks/cn/education/opensource/os-cn-spring-trans/)
 
 ## 网络安全
