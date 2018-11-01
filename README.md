@@ -9,6 +9,7 @@
 
 ## redis
 [redis源码日志](http://wiki.jikexueyuan.com/project/redis/)
+[spring通用幂等处理](https://www.jianshu.com/p/797d19f1efe9)
 
 ## spring
 [跟开涛学SpringMVC](http://jinnianshilongnian.iteye.com/blog/1752171)
