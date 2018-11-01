@@ -8,7 +8,7 @@
 [vim leaning notes](https://github.com/xiaocairush/xiaocairush.github.io/blob/master/_posts/2017-05-25-vim-learning-notes.markdown)
 
 ## redis
-[redis源码日志](http://wiki.jikexueyuan.com/project/redis/)
+[redis源码日志](http://wiki.jikexueyuan.com/project/redis/)<br/>
 [spring通用幂等处理](https://www.jianshu.com/p/797d19f1efe9)
 
 ## spring
