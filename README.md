@@ -16,6 +16,9 @@
 
 ## 算法
 
+### 算法导论
+[答案](https://walkccc.github.io/CLRS/)
+
 ### skip list (algorithm)
 [paper for skip list](http://www.cl.cam.ac.uk/teaching/0506/Algorithms/skiplists.pdf) ,<br/>
 [skip list in redis](http://redisbook.readthedocs.io/en/latest/internal-datastruct/skiplist.html),<br/>
