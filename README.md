@@ -16,7 +16,6 @@
 [sharding jdbc源码解析](http://www.iocoder.cn/categories/Sharding-JDBC/?cnblog)<br/>
 
 ## 网络安全
-[awesome tools](https://github.com/recodeking/MalwareAnalysis)<br/>
 [安全技术精粹](https://paper.seebug.org)
 
 ## 书籍
