@@ -11,7 +11,7 @@
 
 
 ## design
-[23种设计模式]([http://wiki.jikexueyuan.com/project/java-design-pattern/](https://refactoringguru.cn/design-patterns/))
+[23种设计模式](https://refactoringguru.cn/design-patterns/)
 
 
 ## database
